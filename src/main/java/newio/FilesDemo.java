@@ -11,7 +11,7 @@ public class FilesDemo {
     public static void main(String[] args) throws IOException {
         // Create a directory
         Files.createDirectory(Paths.get("data"));
-        
+
         // Create a directory with intermediate directories
         Files.createDirectories(Paths.get("sub1", "sub2", "sub3"));
 
