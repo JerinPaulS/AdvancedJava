@@ -1,4 +1,4 @@
-package org.example.concurrency.locks;
+package org.example.concurrency;
 
 import java.text.MessageFormat;
 
