@@ -1,4 +1,4 @@
-package org.example.oop;
+package oop;
 
 import java.time.LocalDate;
 import java.util.Objects;

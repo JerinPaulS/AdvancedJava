@@ -1,4 +1,4 @@
-package org.example.generics;
+package generics;
 
 import java.time.LocalDate;
 import java.util.Arrays;

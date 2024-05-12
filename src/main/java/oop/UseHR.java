@@ -1,4 +1,4 @@
-package org.example.oop;
+package oop;
 
 public class UseHR {
 

@@ -1,4 +1,4 @@
-package org.example.interfaces.defaults;
+package interfaces.defaults;
 
 import java.util.List;
 import java.util.stream.Collectors;

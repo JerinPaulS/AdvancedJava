@@ -1,4 +1,4 @@
-package org.example.concurrency;
+package concurrency;
 
 import java.text.MessageFormat;
 

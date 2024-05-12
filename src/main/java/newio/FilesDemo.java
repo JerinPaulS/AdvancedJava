@@ -1,4 +1,4 @@
-package org.example.newio;
+package newio;
 
 import java.io.IOException;
 import java.nio.file.Files;

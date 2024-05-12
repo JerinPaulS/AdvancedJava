@@ -1,4 +1,4 @@
-package org.example.generics.wildcards;
+package generics.wildcards;
 
 import java.text.MessageFormat;
 

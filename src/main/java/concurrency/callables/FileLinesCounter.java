@@ -1,4 +1,4 @@
-package org.example.concurrency.callables;
+package concurrency.callables;
 
 import java.io.IOException;
 import java.nio.file.Files;

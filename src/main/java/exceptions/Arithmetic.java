@@ -1,4 +1,4 @@
-package org.example.exceptions;
+package exceptions;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package org.example.database.jdbc;
+package database.jdbc;
 
 import java.util.List;
 

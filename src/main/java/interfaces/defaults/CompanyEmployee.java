@@ -1,4 +1,4 @@
-package org.example.interfaces.defaults;
+package interfaces.defaults;
 
 public class CompanyEmployee implements Company, Employee{
 

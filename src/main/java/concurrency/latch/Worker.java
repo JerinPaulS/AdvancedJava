@@ -1,4 +1,4 @@
-package org.example.concurrency.latch;
+package concurrency.latch;
 
 import java.util.concurrent.CountDownLatch;
 

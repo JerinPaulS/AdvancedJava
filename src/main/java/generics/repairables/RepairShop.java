@@ -1,4 +1,4 @@
-package org.example.generics.repairables;
+package generics.repairables;
 
 import java.util.List;
 

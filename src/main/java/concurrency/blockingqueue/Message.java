@@ -1,4 +1,4 @@
-package org.example.concurrency.blockingqueue;
+package concurrency.blockingqueue;
 
 public class Message {
 

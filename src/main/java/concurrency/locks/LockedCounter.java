@@ -1,4 +1,4 @@
-package org.example.concurrency.locks;
+package concurrency.locks;
 
 import java.util.concurrent.locks.ReentrantLock;
 

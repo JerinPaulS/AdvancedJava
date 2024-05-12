@@ -1,4 +1,4 @@
-package org.example.newio;
+package newio;
 
 import java.io.File;
 import java.nio.file.Path;

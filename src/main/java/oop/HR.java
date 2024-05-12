@@ -1,4 +1,4 @@
-package org.example.oop;
+package oop;
 
 import java.text.NumberFormat;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package org.example.concurrency.callables;
+package concurrency.callables;
 
 import java.text.MessageFormat;
 import java.util.concurrent.Callable;

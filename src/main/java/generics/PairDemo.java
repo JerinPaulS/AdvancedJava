@@ -1,6 +1,6 @@
-package org.example.generics;
+package generics;
 
-import static org.example.generics.Pair.swap;
+import static generics.Pair.swap;
 
 public class PairDemo {
 
